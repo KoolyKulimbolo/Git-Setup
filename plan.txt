@@ -9,7 +9,7 @@
 9. Dodati kolaboratora
 10. Stvoriti restrikcije na master i feature branchu
 11. Deletati dodatni branch
-
+12.aaaaa
 
 
 
