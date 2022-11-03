@@ -39,18 +39,6 @@ function calculateResult(calcType) {
     currentResult += enteredNumber;
     mathOperator = '+'
   }
-  else if (calcType === 'subtract') {
-    currentResult -= enteredNumber
-    mathOperator = '-'
-  }
-  else if (calcType === 'multiply'){
-    currentResult *= enteredNumber
-    mathOperator = '*'
-  }
-  else if (calcType === 'divide'){
-    currentResult /= enteredNumber
-    mathOperator = '/'
-  }
 
   writeToLog(mathOperator,initialResult,enteredNumber,currentResult)
   console.log(logEntries);
