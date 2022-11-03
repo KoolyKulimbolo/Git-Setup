@@ -8,6 +8,8 @@ git diff
 git log
 git checkout -b (#Name Brancha) (#Kod Starog Commita)
 git checkout -b (#name)
+git branch (#name)
+git branch -d (#name)
 git branch ##shows branch listing
 git clone
 git pull (#Kod Linka)
