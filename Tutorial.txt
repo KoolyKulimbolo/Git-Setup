@@ -11,3 +11,4 @@ git checkout -b (#name)
 git branch ##shows branch listing
 git clone
 git pull (#Kod Linka)
+git rm (#FileName)
