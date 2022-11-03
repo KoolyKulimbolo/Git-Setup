@@ -1,22 +1,13 @@
 git init
-git remote add origin (%link)
+git remote add origin (#link)
 git add .
 git commit -am "komentar"
 git push -u origin master
 git push 
-
-
-
-
-  else if (calcType === 'subtract') {
-    currentResult -= enteredNumber
-    mathOperator = '-'
-  }
-  else if (calcType === 'multiply'){
-    currentResult *= enteredNumber
-    mathOperator = '*'
-  }
-  else if (calcType === 'divide'){
-    currentResult /= enteredNumber
-    mathOperator = '/'
-  }
+git diff 
+git log
+git checkout -b (#Name Brancha) (#Kod Starog Commita)
+git checkout -b (#name)
+git branch ##shows branch listing
+git clone
+git pull (#Kod Linka)
