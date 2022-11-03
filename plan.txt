@@ -3,7 +3,12 @@
 3. Creatati i commitati README.md file unutar Repo-a
 4. Creatati branch koji je kopija master brancha
 5. U branchu implementirati kod koji ce se mergeati s master kodom
-6. 
+6. Mergeati feature branch sa master brannchom
+7. Creatati jos jedan branch
+8. Pull Request 
+9. Dodati kolaboratora
+10. Stvoriti restrikcije na master i feature branchu
+11. Deletati dodatni branch
 
 
 
