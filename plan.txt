@@ -1,0 +1,32 @@
+1. Creatati novi Repo
+2. Povezati ga sa VSCode-om
+3. Creatati i commitati README.md file unutar Repo-a
+4. Creatati branch koji je kopija master brancha
+5. U branchu implementirati kod koji ce se mergeati s master kodom
+6. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sources:
+Git & Github tutorial: https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+Pull Request: https://www.youtube.com/watch?v=8lGpZkjnkt4&ab_channel=Fireship 
