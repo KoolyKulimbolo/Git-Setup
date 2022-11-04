@@ -15,3 +15,7 @@ git clone
 git pull (#Kod Linka)
 git rm (#FileName)
 rm -rf .git 
+
+rebase - prebacuje kod iz jednog brancha u drugi nezavisno od razlika, te zamijenjuje kod brancha u koji se prebacuje
+merge - spaja dva brancha i prikazuje razlike/conflicte 
+merge squash - spaja dva koda tako sto sve commitove iz jednog koda ugura u jedan novi commit na master ili drugom odabranom branchu
