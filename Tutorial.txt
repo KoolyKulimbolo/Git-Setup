@@ -15,6 +15,8 @@ git clone
 git pull (#Kod Linka)
 git rm (#FileName)
 rm -rf .git 
+git stash  
+
 
 rebase - Sluzi za prebacivanje koda iz main brancha na feature branch, najcesce iz razloga sto je main branch uveo nove promjene koda.
 feature branch postaje main kod 
